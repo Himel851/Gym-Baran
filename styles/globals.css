@@ -8,11 +8,13 @@ html {
 }
 
 body {
+  
   /* background-color: #E5E5E5; */
   background: linear-gradient(to right,
       #eae5d6 ,
       #E5E5E5,
       #f5f1f1);
+      font-family: 'Poppins';
 
 }
 

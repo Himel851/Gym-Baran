@@ -19,7 +19,7 @@ const Works = () => {
     <div className="m-[8%]">
       {/* how it works */}
       <section class="grid lg:grid-cols-2  gap-20 mt-[8%]  ">
-        <div>
+        <div className="order-2 md:order-1 ">
           <div className="relative  ">
             <div className="ml-[10%] ">
               <Image src={works} width={450} />
@@ -44,7 +44,7 @@ const Works = () => {
           </div>
         </div>
 
-        <div className="w-[550px] mt-[4%]  ">
+        <div className="order-1 mt-[15%]  md:order-2 w-[550px] md:mt-[4%]  ">
           <h1 className="text-5xl leading-[73px] font-semibold tracking-[0.01em] mt-[-10%]">
             How It Works?
           </h1>

@@ -14,7 +14,7 @@ const Body = () => {
     <div className="m-[8%] background">
 
       <div class="grid lg:grid-cols-2  gap-4   ">
-        <div className="relative order-2 md:order-1">
+        <div className="relative mt-20 md:mt-0 order-2 md:order-1">
           <div className="ml-[27%] ">
             <Image src={fullBody} width={358} height={700} />
           </div>
@@ -74,17 +74,17 @@ const Body = () => {
         </div>
 
         <div>
-          <div className="relative  ">
+          <div className="relative mt-20 md:mt-0 ">
             <div className="ml-[27%] ">
               <Image src={daily} width={358} height={700} />
             </div>
             <div className="flex absolute top-[8%] left-[15%]  bg-white h-20 w-52 rounded-xl">
               <div className="w-16 h-16 mt-3 ml-2">
-                <Image src={healthy1} />
+                <Image src={best2} />
               </div>
               <div className="mt-4 ml-4">
-                <h2 className="font-black text-base">800 kall</h2>
-                <p className="opacity-50 text-xs">Burn fat</p>
+                <h2 className="font-black text-base">Stretch</h2>
+                <p className="opacity-50 text-xs">Your body</p>
               </div>
             </div>
             <div className="absolute left-[22%] top-[55%] w-14 h-16">

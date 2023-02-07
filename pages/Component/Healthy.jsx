@@ -27,18 +27,7 @@ const Healthy = () => {
               </p>
             </div>
           </div>
-          {/* <div className="grid lg:grid-cols-2   gap-4 mt-20 text-center justify-center">
-          <h1 className="text-6xl leading-[73px] w-50% font-semibold tracking-[0.01em] font-mono">
-            Healthy in side <br /> fresh out side
-          </h1>
-          <p className="text-lg font-normal leading-7 tracking-[0.01em] w-[80%] font-mono  height={580} mt-5 sm:ml-[10px]">
-            Exercise is a very important need for our body. Health and fitness
-            will be obtained if you can do regular exercise and run a healthy
-            routine. Even at home we still have to be diligent in exercising,
-            either alone or with your friends at home. Healthy life makes you
-            more excited to live the day
-          </p>
-        </div> */}
+          
         </div>
       </div>
 
